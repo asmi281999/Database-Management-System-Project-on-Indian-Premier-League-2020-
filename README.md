@@ -1,0 +1,2 @@
+# Database-Management-System-Project-on-Indian-Premier-League-2020-
+It is a database management system  project using the Ipl 2020 dataset. The kaggle website provided the dataset. In this project, my project partner and I collected information about 26 matches, including point tables, venues, teams, umpires, and owners. We then manually drew relational models and Er diagrams, recorded the data in MySQL, and resolved 10 SQL queries.
